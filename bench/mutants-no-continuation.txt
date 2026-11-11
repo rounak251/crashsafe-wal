@@ -1,0 +1,12 @@
+ID   NAME                       RESULT   VIOLATION (state, kind, detail)
+0    baseline                   PASS     
+1    no-dirsync-after-rename    CAUGHT   VIOLATION A/c279/s5 acked-op-lost:  recovered=0 acked=82 issued=82
+2    no-dirsync-after-create    CAUGHT   VIOLATION A/c7/v0 acked-op-lost:  recovered=0 acked=1 issued=2
+3    snapshot-in-place          CAUGHT   VIOLATION A/c275/v1 recovery-failed: snapshot does not parse
+4    snapshot-no-temp-fsync     CAUGHT   VIOLATION A/c277/s9 recovery-failed: snapshot does not parse
+5    crc-payload-only           CAUGHT   VIOLATION A/c84/v1722 non-prefix-state:  recovered=25 acked=23 issued=25
+6    no-frame-crc               CAUGHT   VIOLATION A/c13/v75 non-prefix-state:  recovered=3 acked=2 issued=4
+7    torn-tail-not-truncated    MISSED   
+8    ack-before-fsync           CAUGHT   VIOLATION A/c7/v0 acked-op-lost:  recovered=0 acked=1 issued=2
+9    sync-error-ignored         CAUGHT   VIOLATION B/c75/v0 acked-op-lost:  recovered=21 acked=22 issued=23
+10   sync-retry                 CAUGHT   VIOLATION B/c76/v0 acked-op-lost:  recovered=21 acked=22 issued=23

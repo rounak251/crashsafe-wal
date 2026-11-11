@@ -1,0 +1,28 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install compiler and make
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential make
+
+      - name: Unit tests under AddressSanitizer and UBSan
+        run: make test
+
+      - name: Enumerate crash states of both seeded traces
+        run: make crashcheck
+
+      - name: Check that each seeded bug is caught
+        run: make mutants
+
+      - name: Non-test line count
+        run: make loc

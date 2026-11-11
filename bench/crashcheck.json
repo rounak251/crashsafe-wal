@@ -1,0 +1,15 @@
+{
+  "seed": 1,
+  "window_bound": 2,
+  "samples_per_sampled_point": 64,
+  "continuation_puts": 2,
+  "passed": true,
+  "violation": null,
+  "states_total": 231498,
+  "wall_seconds": 15.072176,
+  "traces": [
+    {"name": "A", "events": 1007, "ops_issued": 300, "ops_acked": 300, "fault_fired": false, "crash_points": 1008, "exhaustive_points": 729, "sampled_points": 279, "max_window": 8, "states": 200718, "window_histogram": [476, 152, 101, 74, 58, 42, 42, 42, 21]},
+    {"name": "B", "events": 74, "ops_issued": 23, "ops_acked": 21, "fault_fired": true, "crash_points": 75, "exhaustive_points": 50, "sampled_points": 25, "max_window": 8, "states": 16518, "window_histogram": [33, 10, 7, 6, 5, 4, 4, 4, 2]},
+    {"name": "C", "events": 68, "ops_issued": 21, "ops_acked": 19, "fault_fired": true, "crash_points": 69, "exhaustive_points": 47, "sampled_points": 22, "max_window": 8, "states": 14262, "window_histogram": [31, 10, 6, 4, 4, 4, 4, 4, 2]}
+  ]
+}

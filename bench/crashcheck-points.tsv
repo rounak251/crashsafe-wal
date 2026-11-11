@@ -1,0 +1,1153 @@
+trace	point	window	mode	states	ops
+A	0	0	exhaustive	1	-
+A	1	1	exhaustive	2	c
+A	2	0	exhaustive	1	-
+A	3	0	exhaustive	1	-
+A	4	1	exhaustive	32	w31
+A	5	1	exhaustive	32	w31
+A	6	2	exhaustive	1312	w31 w40
+A	7	0	exhaustive	1	-
+A	8	0	exhaustive	1	-
+A	9	0	exhaustive	1	-
+A	10	0	exhaustive	1	-
+A	11	1	exhaustive	47	w46
+A	12	1	exhaustive	47	w46
+A	13	2	exhaustive	1504	w46 w31
+A	14	2	exhaustive	1504	w46 w31
+A	15	3	sampled	64	w46 w31 w40
+A	16	3	sampled	64	w46 w31 w40
+A	17	4	sampled	64	w46 w31 w40 w44
+A	18	4	sampled	64	w46 w31 w40 w44
+A	19	5	sampled	64	w46 w31 w40 w44 w35
+A	20	5	sampled	64	w46 w31 w40 w44 w35
+A	21	6	sampled	64	w46 w31 w40 w44 w35 w30
+A	22	6	sampled	64	w46 w31 w40 w44 w35 w30
+A	23	7	sampled	64	w46 w31 w40 w44 w35 w30 w51
+A	24	7	sampled	64	w46 w31 w40 w44 w35 w30 w51
+A	25	8	sampled	64	w46 w31 w40 w44 w35 w30 w51 w49
+A	26	0	exhaustive	1	-
+A	27	0	exhaustive	1	-
+A	28	0	exhaustive	1	-
+A	29	0	exhaustive	1	-
+A	30	0	exhaustive	1	-
+A	31	0	exhaustive	1	-
+A	32	0	exhaustive	1	-
+A	33	0	exhaustive	1	-
+A	34	0	exhaustive	1	-
+A	35	0	exhaustive	1	-
+A	36	1	exhaustive	47	w46
+A	37	1	exhaustive	47	w46
+A	38	2	exhaustive	2397	w46 w50
+A	39	2	exhaustive	2397	w46 w50
+A	40	3	sampled	64	w46 w50 w32
+A	41	3	sampled	64	w46 w50 w32
+A	42	4	sampled	64	w46 w50 w32 w47
+A	43	0	exhaustive	1	-
+A	44	0	exhaustive	1	-
+A	45	0	exhaustive	1	-
+A	46	0	exhaustive	1	-
+A	47	0	exhaustive	1	-
+A	48	0	exhaustive	1	-
+A	49	1	exhaustive	51	w50
+A	50	1	exhaustive	51	w50
+A	51	2	exhaustive	1632	w50 w31
+A	52	0	exhaustive	1	-
+A	53	0	exhaustive	1	-
+A	54	0	exhaustive	1	-
+A	55	0	exhaustive	1	-
+A	56	1	exhaustive	35	w34
+A	57	1	exhaustive	35	w34
+A	58	2	exhaustive	1890	w34 w53
+A	59	0	exhaustive	1	-
+A	60	0	exhaustive	1	-
+A	61	0	exhaustive	1	-
+A	62	0	exhaustive	1	-
+A	63	1	exhaustive	31	w30
+A	64	0	exhaustive	1	-
+A	65	0	exhaustive	1	-
+A	66	0	exhaustive	1	-
+A	67	1	exhaustive	36	w35
+A	68	1	exhaustive	36	w35
+A	69	2	exhaustive	1980	w35 w54
+A	70	0	exhaustive	1	-
+A	71	0	exhaustive	1	-
+A	72	0	exhaustive	1	-
+A	73	0	exhaustive	1	-
+A	74	1	exhaustive	35	w34
+A	75	0	exhaustive	1	-
+A	76	0	exhaustive	1	-
+A	77	0	exhaustive	1	-
+A	78	1	exhaustive	55	w54
+A	79	0	exhaustive	1	-
+A	80	0	exhaustive	1	-
+A	81	0	exhaustive	1	-
+A	82	1	exhaustive	41	w40
+A	83	1	exhaustive	41	w40
+A	84	2	exhaustive	1763	w40 w42
+A	85	2	exhaustive	1763	w40 w42
+A	86	3	sampled	64	w40 w42 w48
+A	87	3	sampled	64	w40 w42 w48
+A	88	4	sampled	64	w40 w42 w48 w52
+A	89	4	sampled	64	w40 w42 w48 w52
+A	90	5	sampled	64	w40 w42 w48 w52 w30
+A	91	5	sampled	64	w40 w42 w48 w52 w30
+A	92	6	sampled	64	w40 w42 w48 w52 w30 w31
+A	93	6	sampled	64	w40 w42 w48 w52 w30 w31
+A	94	7	sampled	64	w40 w42 w48 w52 w30 w31 w49
+A	95	7	sampled	64	w40 w42 w48 w52 w30 w31 w49
+A	96	8	sampled	64	w40 w42 w48 w52 w30 w31 w49 w40
+A	97	0	exhaustive	1	-
+A	98	0	exhaustive	1	-
+A	99	0	exhaustive	1	-
+A	100	0	exhaustive	1	-
+A	101	0	exhaustive	1	-
+A	102	0	exhaustive	1	-
+A	103	0	exhaustive	1	-
+A	104	0	exhaustive	1	-
+A	105	0	exhaustive	1	-
+A	106	0	exhaustive	1	-
+A	107	1	exhaustive	45	w44
+A	108	1	exhaustive	45	w44
+A	109	2	exhaustive	2385	w44 w52
+A	110	0	exhaustive	1	-
+A	111	0	exhaustive	1	-
+A	112	0	exhaustive	1	-
+A	113	0	exhaustive	1	-
+A	114	1	exhaustive	32	w31
+A	115	1	exhaustive	32	w31
+A	116	2	exhaustive	1664	w31 w51
+A	117	2	exhaustive	1664	w31 w51
+A	118	3	sampled	64	w31 w51 w51
+A	119	3	sampled	64	w31 w51 w51
+A	120	4	sampled	64	w31 w51 w51 w48
+A	121	4	sampled	64	w31 w51 w51 w48
+A	122	5	sampled	64	w31 w51 w51 w48 w31
+A	123	5	sampled	64	w31 w51 w51 w48 w31
+A	124	6	sampled	64	w31 w51 w51 w48 w31 w53
+A	125	6	sampled	64	w31 w51 w51 w48 w31 w53
+A	126	7	sampled	64	w31 w51 w51 w48 w31 w53 w48
+A	127	7	sampled	64	w31 w51 w51 w48 w31 w53 w48
+A	128	8	sampled	64	w31 w51 w51 w48 w31 w53 w48 w53
+A	129	0	exhaustive	1	-
+A	130	0	exhaustive	1	-
+A	131	0	exhaustive	1	-
+A	132	0	exhaustive	1	-
+A	133	0	exhaustive	1	-
+A	134	0	exhaustive	1	-
+A	135	0	exhaustive	1	-
+A	136	0	exhaustive	1	-
+A	137	0	exhaustive	1	-
+A	138	0	exhaustive	1	-
+A	139	1	exhaustive	53	w52
+A	140	1	exhaustive	53	w52
+A	141	2	exhaustive	2067	w52 w38
+A	142	2	exhaustive	2067	w52 w38
+A	143	3	sampled	64	w52 w38 w31
+A	144	3	sampled	64	w52 w38 w31
+A	145	4	sampled	64	w52 w38 w31 w37
+A	146	4	sampled	64	w52 w38 w31 w37
+A	147	5	sampled	64	w52 w38 w31 w37 w41
+A	148	5	sampled	64	w52 w38 w31 w37 w41
+A	149	6	sampled	64	w52 w38 w31 w37 w41 w48
+A	150	6	sampled	64	w52 w38 w31 w37 w41 w48
+A	151	7	sampled	64	w52 w38 w31 w37 w41 w48 w37
+A	152	7	sampled	64	w52 w38 w31 w37 w41 w48 w37
+A	153	8	sampled	64	w52 w38 w31 w37 w41 w48 w37 w41
+A	154	0	exhaustive	1	-
+A	155	0	exhaustive	1	-
+A	156	0	exhaustive	1	-
+A	157	0	exhaustive	1	-
+A	158	0	exhaustive	1	-
+A	159	0	exhaustive	1	-
+A	160	0	exhaustive	1	-
+A	161	0	exhaustive	1	-
+A	162	0	exhaustive	1	-
+A	163	0	exhaustive	1	-
+A	164	1	exhaustive	45	w44
+A	165	0	exhaustive	1	-
+A	166	0	exhaustive	1	-
+A	167	0	exhaustive	1	-
+A	168	1	exhaustive	40	w39
+A	169	1	exhaustive	40	w39
+A	170	2	exhaustive	2240	w39 w55
+A	171	0	exhaustive	1	-
+A	172	0	exhaustive	1	-
+A	173	0	exhaustive	1	-
+A	174	0	exhaustive	1	-
+A	175	1	exhaustive	36	w35
+A	176	0	exhaustive	1	-
+A	177	0	exhaustive	1	-
+A	178	0	exhaustive	1	-
+A	179	1	exhaustive	32	w31
+A	180	0	exhaustive	1	-
+A	181	0	exhaustive	1	-
+A	182	0	exhaustive	1	-
+A	183	1	exhaustive	40	w39
+A	184	1	exhaustive	40	w39
+A	185	2	exhaustive	1440	w39 w35
+A	186	2	exhaustive	1440	w39 w35
+A	187	3	sampled	64	w39 w35 w33
+A	188	3	sampled	64	w39 w35 w33
+A	189	4	sampled	64	w39 w35 w33 w31
+A	190	0	exhaustive	1	-
+A	191	0	exhaustive	1	-
+A	192	0	exhaustive	1	-
+A	193	0	exhaustive	1	-
+A	194	0	exhaustive	1	-
+A	195	0	exhaustive	1	-
+A	196	1	exhaustive	32	w31
+A	197	1	exhaustive	32	w31
+A	198	2	exhaustive	1696	w31 w52
+A	199	0	exhaustive	1	-
+A	200	0	exhaustive	1	-
+A	201	0	exhaustive	1	-
+A	202	0	exhaustive	1	-
+A	203	1	exhaustive	32	w31
+A	204	1	exhaustive	32	w31
+A	205	2	exhaustive	1728	w31 w53
+A	206	2	exhaustive	1728	w31 w53
+A	207	3	sampled	64	w31 w53 w31
+A	208	3	sampled	64	w31 w53 w31
+A	209	4	sampled	64	w31 w53 w31 w31
+A	210	4	sampled	64	w31 w53 w31 w31
+A	211	5	sampled	64	w31 w53 w31 w31 w51
+A	212	5	sampled	64	w31 w53 w31 w31 w51
+A	213	6	sampled	64	w31 w53 w31 w31 w51 w43
+A	214	6	sampled	64	w31 w53 w31 w31 w51 w43
+A	215	7	sampled	64	w31 w53 w31 w31 w51 w43 w36
+A	216	7	sampled	64	w31 w53 w31 w31 w51 w43 w36
+A	217	8	sampled	64	w31 w53 w31 w31 w51 w43 w36 w35
+A	218	0	exhaustive	1	-
+A	219	0	exhaustive	1	-
+A	220	0	exhaustive	1	-
+A	221	0	exhaustive	1	-
+A	222	0	exhaustive	1	-
+A	223	0	exhaustive	1	-
+A	224	0	exhaustive	1	-
+A	225	0	exhaustive	1	-
+A	226	0	exhaustive	1	-
+A	227	0	exhaustive	1	-
+A	228	1	exhaustive	40	w39
+A	229	0	exhaustive	1	-
+A	230	0	exhaustive	1	-
+A	231	0	exhaustive	1	-
+A	232	1	exhaustive	35	w34
+A	233	0	exhaustive	1	-
+A	234	0	exhaustive	1	-
+A	235	0	exhaustive	1	-
+A	236	1	exhaustive	32	w31
+A	237	0	exhaustive	1	-
+A	238	0	exhaustive	1	-
+A	239	0	exhaustive	1	-
+A	240	1	exhaustive	36	w35
+A	241	1	exhaustive	36	w35
+A	242	2	exhaustive	1980	w35 w54
+A	243	0	exhaustive	1	-
+A	244	0	exhaustive	1	-
+A	245	0	exhaustive	1	-
+A	246	0	exhaustive	1	-
+A	247	1	exhaustive	54	w53
+A	248	0	exhaustive	1	-
+A	249	0	exhaustive	1	-
+A	250	0	exhaustive	1	-
+A	251	1	exhaustive	39	w38
+A	252	1	exhaustive	39	w38
+A	253	2	exhaustive	1560	w38 w39
+A	254	2	exhaustive	1560	w38 w39
+A	255	3	sampled	64	w38 w39 w49
+A	256	3	sampled	64	w38 w39 w49
+A	257	4	sampled	64	w38 w39 w49 w52
+A	258	4	sampled	64	w38 w39 w49 w52
+A	259	5	sampled	64	w38 w39 w49 w52 w42
+A	260	5	sampled	64	w38 w39 w49 w52 w42
+A	261	6	sampled	64	w38 w39 w49 w52 w42 w31
+A	262	6	sampled	64	w38 w39 w49 w52 w42 w31
+A	263	7	sampled	64	w38 w39 w49 w52 w42 w31 w43
+A	264	7	sampled	64	w38 w39 w49 w52 w42 w31 w43
+A	265	8	sampled	64	w38 w39 w49 w52 w42 w31 w43 w31
+A	266	0	exhaustive	1	-
+A	267	0	exhaustive	1	-
+A	268	0	exhaustive	1	-
+A	269	0	exhaustive	1	-
+A	270	0	exhaustive	1	-
+A	271	0	exhaustive	1	-
+A	272	0	exhaustive	1	-
+A	273	0	exhaustive	1	-
+A	274	0	exhaustive	1	-
+A	275	1	exhaustive	2	c
+A	276	2	exhaustive	1976	c w987
+A	277	1	exhaustive	2	c
+A	278	2	exhaustive	4	c r
+A	279	0	exhaustive	1	-
+A	280	1	exhaustive	2	t
+A	281	0	exhaustive	1	-
+A	282	0	exhaustive	1	-
+A	283	1	exhaustive	44	w43
+A	284	1	exhaustive	44	w43
+A	285	2	exhaustive	2420	w43 w54
+A	286	0	exhaustive	1	-
+A	287	0	exhaustive	1	-
+A	288	0	exhaustive	1	-
+A	289	0	exhaustive	1	-
+A	290	1	exhaustive	43	w42
+A	291	1	exhaustive	43	w42
+A	292	2	exhaustive	1978	w42 w45
+A	293	2	exhaustive	1978	w42 w45
+A	294	3	sampled	64	w42 w45 w31
+A	295	3	sampled	64	w42 w45 w31
+A	296	4	sampled	64	w42 w45 w31 w31
+A	297	0	exhaustive	1	-
+A	298	0	exhaustive	1	-
+A	299	0	exhaustive	1	-
+A	300	0	exhaustive	1	-
+A	301	0	exhaustive	1	-
+A	302	0	exhaustive	1	-
+A	303	1	exhaustive	45	w44
+A	304	0	exhaustive	1	-
+A	305	0	exhaustive	1	-
+A	306	0	exhaustive	1	-
+A	307	1	exhaustive	36	w35
+A	308	1	exhaustive	36	w35
+A	309	2	exhaustive	1404	w35 w38
+A	310	2	exhaustive	1404	w35 w38
+A	311	3	sampled	64	w35 w38 w30
+A	312	3	sampled	64	w35 w38 w30
+A	313	4	sampled	64	w35 w38 w30 w50
+A	314	4	sampled	64	w35 w38 w30 w50
+A	315	5	sampled	64	w35 w38 w30 w50 w40
+A	316	5	sampled	64	w35 w38 w30 w50 w40
+A	317	6	sampled	64	w35 w38 w30 w50 w40 w31
+A	318	6	sampled	64	w35 w38 w30 w50 w40 w31
+A	319	7	sampled	64	w35 w38 w30 w50 w40 w31 w31
+A	320	7	sampled	64	w35 w38 w30 w50 w40 w31 w31
+A	321	8	sampled	64	w35 w38 w30 w50 w40 w31 w31 w37
+A	322	0	exhaustive	1	-
+A	323	0	exhaustive	1	-
+A	324	0	exhaustive	1	-
+A	325	0	exhaustive	1	-
+A	326	0	exhaustive	1	-
+A	327	0	exhaustive	1	-
+A	328	0	exhaustive	1	-
+A	329	0	exhaustive	1	-
+A	330	0	exhaustive	1	-
+A	331	0	exhaustive	1	-
+A	332	1	exhaustive	45	w44
+A	333	1	exhaustive	45	w44
+A	334	2	exhaustive	2295	w44 w50
+A	335	2	exhaustive	2295	w44 w50
+A	336	3	sampled	64	w44 w50 w31
+A	337	3	sampled	64	w44 w50 w31
+A	338	4	sampled	64	w44 w50 w31 w30
+A	339	0	exhaustive	1	-
+A	340	0	exhaustive	1	-
+A	341	0	exhaustive	1	-
+A	342	0	exhaustive	1	-
+A	343	0	exhaustive	1	-
+A	344	0	exhaustive	1	-
+A	345	1	exhaustive	46	w45
+A	346	1	exhaustive	46	w45
+A	347	2	exhaustive	1656	w45 w35
+A	348	0	exhaustive	1	-
+A	349	0	exhaustive	1	-
+A	350	0	exhaustive	1	-
+A	351	0	exhaustive	1	-
+A	352	1	exhaustive	32	w31
+A	353	0	exhaustive	1	-
+A	354	0	exhaustive	1	-
+A	355	0	exhaustive	1	-
+A	356	1	exhaustive	55	w54
+A	357	1	exhaustive	55	w54
+A	358	2	exhaustive	2310	w54 w41
+A	359	2	exhaustive	2310	w54 w41
+A	360	3	sampled	64	w54 w41 w46
+A	361	3	sampled	64	w54 w41 w46
+A	362	4	sampled	64	w54 w41 w46 w40
+A	363	4	sampled	64	w54 w41 w46 w40
+A	364	5	sampled	64	w54 w41 w46 w40 w43
+A	365	5	sampled	64	w54 w41 w46 w40 w43
+A	366	6	sampled	64	w54 w41 w46 w40 w43 w38
+A	367	6	sampled	64	w54 w41 w46 w40 w43 w38
+A	368	7	sampled	64	w54 w41 w46 w40 w43 w38 w46
+A	369	7	sampled	64	w54 w41 w46 w40 w43 w38 w46
+A	370	8	sampled	64	w54 w41 w46 w40 w43 w38 w46 w43
+A	371	0	exhaustive	1	-
+A	372	0	exhaustive	1	-
+A	373	0	exhaustive	1	-
+A	374	0	exhaustive	1	-
+A	375	0	exhaustive	1	-
+A	376	0	exhaustive	1	-
+A	377	0	exhaustive	1	-
+A	378	0	exhaustive	1	-
+A	379	0	exhaustive	1	-
+A	380	0	exhaustive	1	-
+A	381	1	exhaustive	37	w36
+A	382	1	exhaustive	37	w36
+A	383	2	exhaustive	2072	w36 w55
+A	384	2	exhaustive	2072	w36 w55
+A	385	3	sampled	64	w36 w55 w30
+A	386	3	sampled	64	w36 w55 w30
+A	387	4	sampled	64	w36 w55 w30 w36
+A	388	0	exhaustive	1	-
+A	389	0	exhaustive	1	-
+A	390	0	exhaustive	1	-
+A	391	0	exhaustive	1	-
+A	392	0	exhaustive	1	-
+A	393	0	exhaustive	1	-
+A	394	1	exhaustive	36	w35
+A	395	1	exhaustive	36	w35
+A	396	2	exhaustive	2016	w35 w55
+A	397	2	exhaustive	2016	w35 w55
+A	398	3	sampled	64	w35 w55 w31
+A	399	3	sampled	64	w35 w55 w31
+A	400	4	sampled	64	w35 w55 w31 w33
+A	401	4	sampled	64	w35 w55 w31 w33
+A	402	5	sampled	64	w35 w55 w31 w33 w35
+A	403	5	sampled	64	w35 w55 w31 w33 w35
+A	404	6	sampled	64	w35 w55 w31 w33 w35 w40
+A	405	6	sampled	64	w35 w55 w31 w33 w35 w40
+A	406	7	sampled	64	w35 w55 w31 w33 w35 w40 w30
+A	407	7	sampled	64	w35 w55 w31 w33 w35 w40 w30
+A	408	8	sampled	64	w35 w55 w31 w33 w35 w40 w30 w44
+A	409	0	exhaustive	1	-
+A	410	0	exhaustive	1	-
+A	411	0	exhaustive	1	-
+A	412	0	exhaustive	1	-
+A	413	0	exhaustive	1	-
+A	414	0	exhaustive	1	-
+A	415	0	exhaustive	1	-
+A	416	0	exhaustive	1	-
+A	417	0	exhaustive	1	-
+A	418	0	exhaustive	1	-
+A	419	1	exhaustive	44	w43
+A	420	0	exhaustive	1	-
+A	421	0	exhaustive	1	-
+A	422	0	exhaustive	1	-
+A	423	1	exhaustive	33	w32
+A	424	1	exhaustive	33	w32
+A	425	2	exhaustive	1056	w32 w31
+A	426	0	exhaustive	1	-
+A	427	0	exhaustive	1	-
+A	428	0	exhaustive	1	-
+A	429	0	exhaustive	1	-
+A	430	1	exhaustive	31	w30
+A	431	0	exhaustive	1	-
+A	432	0	exhaustive	1	-
+A	433	0	exhaustive	1	-
+A	434	1	exhaustive	40	w39
+A	435	1	exhaustive	40	w39
+A	436	2	exhaustive	1720	w39 w42
+A	437	2	exhaustive	1720	w39 w42
+A	438	3	sampled	64	w39 w42 w44
+A	439	3	sampled	64	w39 w42 w44
+A	440	4	sampled	64	w39 w42 w44 w42
+A	441	4	sampled	64	w39 w42 w44 w42
+A	442	5	sampled	64	w39 w42 w44 w42 w41
+A	443	5	sampled	64	w39 w42 w44 w42 w41
+A	444	6	sampled	64	w39 w42 w44 w42 w41 w50
+A	445	6	sampled	64	w39 w42 w44 w42 w41 w50
+A	446	7	sampled	64	w39 w42 w44 w42 w41 w50 w47
+A	447	7	sampled	64	w39 w42 w44 w42 w41 w50 w47
+A	448	8	sampled	64	w39 w42 w44 w42 w41 w50 w47 w44
+A	449	0	exhaustive	1	-
+A	450	0	exhaustive	1	-
+A	451	0	exhaustive	1	-
+A	452	0	exhaustive	1	-
+A	453	0	exhaustive	1	-
+A	454	0	exhaustive	1	-
+A	455	0	exhaustive	1	-
+A	456	0	exhaustive	1	-
+A	457	0	exhaustive	1	-
+A	458	0	exhaustive	1	-
+A	459	1	exhaustive	49	w48
+A	460	1	exhaustive	49	w48
+A	461	2	exhaustive	2156	w48 w43
+A	462	2	exhaustive	2156	w48 w43
+A	463	3	sampled	64	w48 w43 w42
+A	464	3	sampled	64	w48 w43 w42
+A	465	4	sampled	64	w48 w43 w42 w41
+A	466	0	exhaustive	1	-
+A	467	0	exhaustive	1	-
+A	468	0	exhaustive	1	-
+A	469	0	exhaustive	1	-
+A	470	0	exhaustive	1	-
+A	471	0	exhaustive	1	-
+A	472	1	exhaustive	36	w35
+A	473	1	exhaustive	36	w35
+A	474	2	exhaustive	1584	w35 w43
+A	475	2	exhaustive	1584	w35 w43
+A	476	3	sampled	64	w35 w43 w35
+A	477	3	sampled	64	w35 w43 w35
+A	478	4	sampled	64	w35 w43 w35 w49
+A	479	4	sampled	64	w35 w43 w35 w49
+A	480	5	sampled	64	w35 w43 w35 w49 w55
+A	481	5	sampled	64	w35 w43 w35 w49 w55
+A	482	6	sampled	64	w35 w43 w35 w49 w55 w49
+A	483	6	sampled	64	w35 w43 w35 w49 w55 w49
+A	484	7	sampled	64	w35 w43 w35 w49 w55 w49 w33
+A	485	7	sampled	64	w35 w43 w35 w49 w55 w49 w33
+A	486	8	sampled	64	w35 w43 w35 w49 w55 w49 w33 w39
+A	487	0	exhaustive	1	-
+A	488	0	exhaustive	1	-
+A	489	0	exhaustive	1	-
+A	490	0	exhaustive	1	-
+A	491	0	exhaustive	1	-
+A	492	0	exhaustive	1	-
+A	493	0	exhaustive	1	-
+A	494	0	exhaustive	1	-
+A	495	0	exhaustive	1	-
+A	496	0	exhaustive	1	-
+A	497	1	exhaustive	56	w55
+A	498	1	exhaustive	56	w55
+A	499	2	exhaustive	1792	w55 w31
+A	500	2	exhaustive	1792	w55 w31
+A	501	3	sampled	64	w55 w31 w45
+A	502	3	sampled	64	w55 w31 w45
+A	503	4	sampled	64	w55 w31 w45 w35
+A	504	0	exhaustive	1	-
+A	505	0	exhaustive	1	-
+A	506	0	exhaustive	1	-
+A	507	0	exhaustive	1	-
+A	508	0	exhaustive	1	-
+A	509	0	exhaustive	1	-
+A	510	1	exhaustive	49	w48
+A	511	1	exhaustive	49	w48
+A	512	2	exhaustive	1568	w48 w31
+A	513	2	exhaustive	1568	w48 w31
+A	514	3	sampled	64	w48 w31 w31
+A	515	3	sampled	64	w48 w31 w31
+A	516	4	sampled	64	w48 w31 w31 w41
+A	517	0	exhaustive	1	-
+A	518	0	exhaustive	1	-
+A	519	0	exhaustive	1	-
+A	520	0	exhaustive	1	-
+A	521	0	exhaustive	1	-
+A	522	0	exhaustive	1	-
+A	523	1	exhaustive	55	w54
+A	524	1	exhaustive	55	w54
+A	525	2	exhaustive	3080	w54 w55
+A	526	2	exhaustive	3080	w54 w55
+A	527	3	sampled	64	w54 w55 w31
+A	528	3	sampled	64	w54 w55 w31
+A	529	4	sampled	64	w54 w55 w31 w54
+A	530	4	sampled	64	w54 w55 w31 w54
+A	531	5	sampled	64	w54 w55 w31 w54 w49
+A	532	5	sampled	64	w54 w55 w31 w54 w49
+A	533	6	sampled	64	w54 w55 w31 w54 w49 w40
+A	534	6	sampled	64	w54 w55 w31 w54 w49 w40
+A	535	7	sampled	64	w54 w55 w31 w54 w49 w40 w39
+A	536	7	sampled	64	w54 w55 w31 w54 w49 w40 w39
+A	537	8	sampled	64	w54 w55 w31 w54 w49 w40 w39 w52
+A	538	0	exhaustive	1	-
+A	539	0	exhaustive	1	-
+A	540	0	exhaustive	1	-
+A	541	0	exhaustive	1	-
+A	542	0	exhaustive	1	-
+A	543	0	exhaustive	1	-
+A	544	0	exhaustive	1	-
+A	545	0	exhaustive	1	-
+A	546	0	exhaustive	1	-
+A	547	1	exhaustive	2	c
+A	548	2	exhaustive	2380	c w1189
+A	549	1	exhaustive	2	c
+A	550	2	exhaustive	4	c r
+A	551	0	exhaustive	1	-
+A	552	1	exhaustive	2	t
+A	553	0	exhaustive	1	-
+A	554	0	exhaustive	1	-
+A	555	1	exhaustive	31	w30
+A	556	1	exhaustive	31	w30
+A	557	2	exhaustive	1116	w30 w35
+A	558	2	exhaustive	1116	w30 w35
+A	559	3	sampled	64	w30 w35 w54
+A	560	3	sampled	64	w30 w35 w54
+A	561	4	sampled	64	w30 w35 w54 w43
+A	562	0	exhaustive	1	-
+A	563	0	exhaustive	1	-
+A	564	0	exhaustive	1	-
+A	565	0	exhaustive	1	-
+A	566	0	exhaustive	1	-
+A	567	0	exhaustive	1	-
+A	568	1	exhaustive	32	w31
+A	569	1	exhaustive	32	w31
+A	570	2	exhaustive	1184	w31 w36
+A	571	2	exhaustive	1184	w31 w36
+A	572	3	sampled	64	w31 w36 w51
+A	573	3	sampled	64	w31 w36 w51
+A	574	4	sampled	64	w31 w36 w51 w54
+A	575	4	sampled	64	w31 w36 w51 w54
+A	576	5	sampled	64	w31 w36 w51 w54 w39
+A	577	5	sampled	64	w31 w36 w51 w54 w39
+A	578	6	sampled	64	w31 w36 w51 w54 w39 w47
+A	579	6	sampled	64	w31 w36 w51 w54 w39 w47
+A	580	7	sampled	64	w31 w36 w51 w54 w39 w47 w42
+A	581	7	sampled	64	w31 w36 w51 w54 w39 w47 w42
+A	582	8	sampled	64	w31 w36 w51 w54 w39 w47 w42 w48
+A	583	0	exhaustive	1	-
+A	584	0	exhaustive	1	-
+A	585	0	exhaustive	1	-
+A	586	0	exhaustive	1	-
+A	587	0	exhaustive	1	-
+A	588	0	exhaustive	1	-
+A	589	0	exhaustive	1	-
+A	590	0	exhaustive	1	-
+A	591	0	exhaustive	1	-
+A	592	0	exhaustive	1	-
+A	593	1	exhaustive	38	w37
+A	594	1	exhaustive	38	w37
+A	595	2	exhaustive	2128	w37 w55
+A	596	2	exhaustive	2128	w37 w55
+A	597	3	sampled	64	w37 w55 w30
+A	598	3	sampled	64	w37 w55 w30
+A	599	4	sampled	64	w37 w55 w30 w39
+A	600	0	exhaustive	1	-
+A	601	0	exhaustive	1	-
+A	602	0	exhaustive	1	-
+A	603	0	exhaustive	1	-
+A	604	0	exhaustive	1	-
+A	605	0	exhaustive	1	-
+A	606	1	exhaustive	50	w49
+A	607	1	exhaustive	50	w49
+A	608	2	exhaustive	2350	w49 w46
+A	609	2	exhaustive	2350	w49 w46
+A	610	3	sampled	64	w49 w46 w35
+A	611	3	sampled	64	w49 w46 w35
+A	612	4	sampled	64	w49 w46 w35 w31
+A	613	4	sampled	64	w49 w46 w35 w31
+A	614	5	sampled	64	w49 w46 w35 w31 w47
+A	615	5	sampled	64	w49 w46 w35 w31 w47
+A	616	6	sampled	64	w49 w46 w35 w31 w47 w50
+A	617	6	sampled	64	w49 w46 w35 w31 w47 w50
+A	618	7	sampled	64	w49 w46 w35 w31 w47 w50 w33
+A	619	7	sampled	64	w49 w46 w35 w31 w47 w50 w33
+A	620	8	sampled	64	w49 w46 w35 w31 w47 w50 w33 w41
+A	621	0	exhaustive	1	-
+A	622	0	exhaustive	1	-
+A	623	0	exhaustive	1	-
+A	624	0	exhaustive	1	-
+A	625	0	exhaustive	1	-
+A	626	0	exhaustive	1	-
+A	627	0	exhaustive	1	-
+A	628	0	exhaustive	1	-
+A	629	0	exhaustive	1	-
+A	630	0	exhaustive	1	-
+A	631	1	exhaustive	32	w31
+A	632	0	exhaustive	1	-
+A	633	0	exhaustive	1	-
+A	634	0	exhaustive	1	-
+A	635	1	exhaustive	48	w47
+A	636	0	exhaustive	1	-
+A	637	0	exhaustive	1	-
+A	638	0	exhaustive	1	-
+A	639	1	exhaustive	31	w30
+A	640	1	exhaustive	31	w30
+A	641	2	exhaustive	992	w30 w31
+A	642	2	exhaustive	992	w30 w31
+A	643	3	sampled	64	w30 w31 w30
+A	644	3	sampled	64	w30 w31 w30
+A	645	4	sampled	64	w30 w31 w30 w50
+A	646	0	exhaustive	1	-
+A	647	0	exhaustive	1	-
+A	648	0	exhaustive	1	-
+A	649	0	exhaustive	1	-
+A	650	0	exhaustive	1	-
+A	651	0	exhaustive	1	-
+A	652	1	exhaustive	51	w50
+A	653	1	exhaustive	51	w50
+A	654	2	exhaustive	1581	w50 w30
+A	655	0	exhaustive	1	-
+A	656	0	exhaustive	1	-
+A	657	0	exhaustive	1	-
+A	658	0	exhaustive	1	-
+A	659	1	exhaustive	43	w42
+A	660	1	exhaustive	43	w42
+A	661	2	exhaustive	1892	w42 w43
+A	662	0	exhaustive	1	-
+A	663	0	exhaustive	1	-
+A	664	0	exhaustive	1	-
+A	665	0	exhaustive	1	-
+A	666	1	exhaustive	37	w36
+A	667	1	exhaustive	37	w36
+A	668	2	exhaustive	1887	w36 w50
+A	669	2	exhaustive	1887	w36 w50
+A	670	3	sampled	64	w36 w50 w39
+A	671	3	sampled	64	w36 w50 w39
+A	672	4	sampled	64	w36 w50 w39 w36
+A	673	4	sampled	64	w36 w50 w39 w36
+A	674	5	sampled	64	w36 w50 w39 w36 w31
+A	675	5	sampled	64	w36 w50 w39 w36 w31
+A	676	6	sampled	64	w36 w50 w39 w36 w31 w35
+A	677	6	sampled	64	w36 w50 w39 w36 w31 w35
+A	678	7	sampled	64	w36 w50 w39 w36 w31 w35 w43
+A	679	7	sampled	64	w36 w50 w39 w36 w31 w35 w43
+A	680	8	sampled	64	w36 w50 w39 w36 w31 w35 w43 w41
+A	681	0	exhaustive	1	-
+A	682	0	exhaustive	1	-
+A	683	0	exhaustive	1	-
+A	684	0	exhaustive	1	-
+A	685	0	exhaustive	1	-
+A	686	0	exhaustive	1	-
+A	687	0	exhaustive	1	-
+A	688	0	exhaustive	1	-
+A	689	0	exhaustive	1	-
+A	690	0	exhaustive	1	-
+A	691	1	exhaustive	43	w42
+A	692	1	exhaustive	43	w42
+A	693	2	exhaustive	1462	w42 w33
+A	694	0	exhaustive	1	-
+A	695	0	exhaustive	1	-
+A	696	0	exhaustive	1	-
+A	697	0	exhaustive	1	-
+A	698	1	exhaustive	32	w31
+A	699	0	exhaustive	1	-
+A	700	0	exhaustive	1	-
+A	701	0	exhaustive	1	-
+A	702	1	exhaustive	38	w37
+A	703	0	exhaustive	1	-
+A	704	0	exhaustive	1	-
+A	705	0	exhaustive	1	-
+A	706	1	exhaustive	33	w32
+A	707	0	exhaustive	1	-
+A	708	0	exhaustive	1	-
+A	709	0	exhaustive	1	-
+A	710	1	exhaustive	55	w54
+A	711	1	exhaustive	55	w54
+A	712	2	exhaustive	2090	w54 w37
+A	713	0	exhaustive	1	-
+A	714	0	exhaustive	1	-
+A	715	0	exhaustive	1	-
+A	716	0	exhaustive	1	-
+A	717	1	exhaustive	32	w31
+A	718	1	exhaustive	32	w31
+A	719	2	exhaustive	1024	w31 w31
+A	720	0	exhaustive	1	-
+A	721	0	exhaustive	1	-
+A	722	0	exhaustive	1	-
+A	723	0	exhaustive	1	-
+A	724	1	exhaustive	48	w47
+A	725	1	exhaustive	48	w47
+A	726	2	exhaustive	2304	w47 w47
+A	727	2	exhaustive	2304	w47 w47
+A	728	3	sampled	64	w47 w47 w46
+A	729	3	sampled	64	w47 w47 w46
+A	730	4	sampled	64	w47 w47 w46 w49
+A	731	0	exhaustive	1	-
+A	732	0	exhaustive	1	-
+A	733	0	exhaustive	1	-
+A	734	0	exhaustive	1	-
+A	735	0	exhaustive	1	-
+A	736	0	exhaustive	1	-
+A	737	1	exhaustive	43	w42
+A	738	0	exhaustive	1	-
+A	739	0	exhaustive	1	-
+A	740	0	exhaustive	1	-
+A	741	1	exhaustive	43	w42
+A	742	0	exhaustive	1	-
+A	743	0	exhaustive	1	-
+A	744	0	exhaustive	1	-
+A	745	1	exhaustive	45	w44
+A	746	1	exhaustive	45	w44
+A	747	2	exhaustive	1800	w44 w39
+A	748	2	exhaustive	1800	w44 w39
+A	749	3	sampled	64	w44 w39 w53
+A	750	3	sampled	64	w44 w39 w53
+A	751	4	sampled	64	w44 w39 w53 w31
+A	752	4	sampled	64	w44 w39 w53 w31
+A	753	5	sampled	64	w44 w39 w53 w31 w49
+A	754	5	sampled	64	w44 w39 w53 w31 w49
+A	755	6	sampled	64	w44 w39 w53 w31 w49 w45
+A	756	6	sampled	64	w44 w39 w53 w31 w49 w45
+A	757	7	sampled	64	w44 w39 w53 w31 w49 w45 w53
+A	758	7	sampled	64	w44 w39 w53 w31 w49 w45 w53
+A	759	8	sampled	64	w44 w39 w53 w31 w49 w45 w53 w53
+A	760	0	exhaustive	1	-
+A	761	0	exhaustive	1	-
+A	762	0	exhaustive	1	-
+A	763	0	exhaustive	1	-
+A	764	0	exhaustive	1	-
+A	765	0	exhaustive	1	-
+A	766	0	exhaustive	1	-
+A	767	0	exhaustive	1	-
+A	768	0	exhaustive	1	-
+A	769	0	exhaustive	1	-
+A	770	1	exhaustive	32	w31
+A	771	1	exhaustive	32	w31
+A	772	2	exhaustive	992	w31 w30
+A	773	2	exhaustive	992	w31 w30
+A	774	3	sampled	64	w31 w30 w35
+A	775	3	sampled	64	w31 w30 w35
+A	776	4	sampled	64	w31 w30 w35 w47
+A	777	0	exhaustive	1	-
+A	778	0	exhaustive	1	-
+A	779	0	exhaustive	1	-
+A	780	0	exhaustive	1	-
+A	781	0	exhaustive	1	-
+A	782	0	exhaustive	1	-
+A	783	1	exhaustive	35	w34
+A	784	1	exhaustive	35	w34
+A	785	2	exhaustive	1575	w34 w44
+A	786	2	exhaustive	1575	w34 w44
+A	787	3	sampled	64	w34 w44 w53
+A	788	3	sampled	64	w34 w44 w53
+A	789	4	sampled	64	w34 w44 w53 w51
+A	790	0	exhaustive	1	-
+A	791	0	exhaustive	1	-
+A	792	0	exhaustive	1	-
+A	793	0	exhaustive	1	-
+A	794	0	exhaustive	1	-
+A	795	0	exhaustive	1	-
+A	796	1	exhaustive	36	w35
+A	797	0	exhaustive	1	-
+A	798	0	exhaustive	1	-
+A	799	0	exhaustive	1	-
+A	800	1	exhaustive	34	w33
+A	801	1	exhaustive	34	w33
+A	802	2	exhaustive	1088	w33 w31
+A	803	2	exhaustive	1088	w33 w31
+A	804	3	sampled	64	w33 w31 w48
+A	805	3	sampled	64	w33 w31 w48
+A	806	4	sampled	64	w33 w31 w48 w38
+A	807	4	sampled	64	w33 w31 w48 w38
+A	808	5	sampled	64	w33 w31 w48 w38 w50
+A	809	5	sampled	64	w33 w31 w48 w38 w50
+A	810	6	sampled	64	w33 w31 w48 w38 w50 w39
+A	811	6	sampled	64	w33 w31 w48 w38 w50 w39
+A	812	7	sampled	64	w33 w31 w48 w38 w50 w39 w43
+A	813	7	sampled	64	w33 w31 w48 w38 w50 w39 w43
+A	814	8	sampled	64	w33 w31 w48 w38 w50 w39 w43 w49
+A	815	0	exhaustive	1	-
+A	816	0	exhaustive	1	-
+A	817	0	exhaustive	1	-
+A	818	0	exhaustive	1	-
+A	819	0	exhaustive	1	-
+A	820	0	exhaustive	1	-
+A	821	0	exhaustive	1	-
+A	822	0	exhaustive	1	-
+A	823	0	exhaustive	1	-
+A	824	1	exhaustive	2	c
+A	825	2	exhaustive	2594	c w1296
+A	826	1	exhaustive	2	c
+A	827	2	exhaustive	4	c r
+A	828	0	exhaustive	1	-
+A	829	1	exhaustive	2	t
+A	830	0	exhaustive	1	-
+A	831	0	exhaustive	1	-
+A	832	1	exhaustive	55	w54
+A	833	1	exhaustive	55	w54
+A	834	2	exhaustive	2200	w54 w39
+A	835	2	exhaustive	2200	w54 w39
+A	836	3	sampled	64	w54 w39 w31
+A	837	3	sampled	64	w54 w39 w31
+A	838	4	sampled	64	w54 w39 w31 w41
+A	839	4	sampled	64	w54 w39 w31 w41
+A	840	5	sampled	64	w54 w39 w31 w41 w52
+A	841	5	sampled	64	w54 w39 w31 w41 w52
+A	842	6	sampled	64	w54 w39 w31 w41 w52 w50
+A	843	6	sampled	64	w54 w39 w31 w41 w52 w50
+A	844	7	sampled	64	w54 w39 w31 w41 w52 w50 w39
+A	845	7	sampled	64	w54 w39 w31 w41 w52 w50 w39
+A	846	8	sampled	64	w54 w39 w31 w41 w52 w50 w39 w46
+A	847	0	exhaustive	1	-
+A	848	0	exhaustive	1	-
+A	849	0	exhaustive	1	-
+A	850	0	exhaustive	1	-
+A	851	0	exhaustive	1	-
+A	852	0	exhaustive	1	-
+A	853	0	exhaustive	1	-
+A	854	0	exhaustive	1	-
+A	855	0	exhaustive	1	-
+A	856	0	exhaustive	1	-
+A	857	1	exhaustive	50	w49
+A	858	1	exhaustive	50	w49
+A	859	2	exhaustive	1600	w49 w31
+A	860	0	exhaustive	1	-
+A	861	0	exhaustive	1	-
+A	862	0	exhaustive	1	-
+A	863	0	exhaustive	1	-
+A	864	1	exhaustive	37	w36
+A	865	1	exhaustive	37	w36
+A	866	2	exhaustive	1332	w36 w35
+A	867	2	exhaustive	1332	w36 w35
+A	868	3	sampled	64	w36 w35 w31
+A	869	3	sampled	64	w36 w35 w31
+A	870	4	sampled	64	w36 w35 w31 w52
+A	871	0	exhaustive	1	-
+A	872	0	exhaustive	1	-
+A	873	0	exhaustive	1	-
+A	874	0	exhaustive	1	-
+A	875	0	exhaustive	1	-
+A	876	0	exhaustive	1	-
+A	877	1	exhaustive	53	w52
+A	878	1	exhaustive	53	w52
+A	879	2	exhaustive	2279	w52 w42
+A	880	0	exhaustive	1	-
+A	881	0	exhaustive	1	-
+A	882	0	exhaustive	1	-
+A	883	0	exhaustive	1	-
+A	884	1	exhaustive	39	w38
+A	885	0	exhaustive	1	-
+A	886	0	exhaustive	1	-
+A	887	0	exhaustive	1	-
+A	888	1	exhaustive	40	w39
+A	889	1	exhaustive	40	w39
+A	890	2	exhaustive	1280	w39 w31
+A	891	2	exhaustive	1280	w39 w31
+A	892	3	sampled	64	w39 w31 w32
+A	893	3	sampled	64	w39 w31 w32
+A	894	4	sampled	64	w39 w31 w32 w55
+A	895	4	sampled	64	w39 w31 w32 w55
+A	896	5	sampled	64	w39 w31 w32 w55 w31
+A	897	5	sampled	64	w39 w31 w32 w55 w31
+A	898	6	sampled	64	w39 w31 w32 w55 w31 w31
+A	899	6	sampled	64	w39 w31 w32 w55 w31 w31
+A	900	7	sampled	64	w39 w31 w32 w55 w31 w31 w35
+A	901	7	sampled	64	w39 w31 w32 w55 w31 w31 w35
+A	902	8	sampled	64	w39 w31 w32 w55 w31 w31 w35 w32
+A	903	0	exhaustive	1	-
+A	904	0	exhaustive	1	-
+A	905	0	exhaustive	1	-
+A	906	0	exhaustive	1	-
+A	907	0	exhaustive	1	-
+A	908	0	exhaustive	1	-
+A	909	0	exhaustive	1	-
+A	910	0	exhaustive	1	-
+A	911	0	exhaustive	1	-
+A	912	0	exhaustive	1	-
+A	913	1	exhaustive	55	w54
+A	914	0	exhaustive	1	-
+A	915	0	exhaustive	1	-
+A	916	0	exhaustive	1	-
+A	917	1	exhaustive	47	w46
+A	918	0	exhaustive	1	-
+A	919	0	exhaustive	1	-
+A	920	0	exhaustive	1	-
+A	921	1	exhaustive	39	w38
+A	922	1	exhaustive	39	w38
+A	923	2	exhaustive	1911	w38 w48
+A	924	0	exhaustive	1	-
+A	925	0	exhaustive	1	-
+A	926	0	exhaustive	1	-
+A	927	0	exhaustive	1	-
+A	928	1	exhaustive	34	w33
+A	929	1	exhaustive	34	w33
+A	930	2	exhaustive	1700	w33 w49
+A	931	2	exhaustive	1700	w33 w49
+A	932	3	sampled	64	w33 w49 w43
+A	933	3	sampled	64	w33 w49 w43
+A	934	4	sampled	64	w33 w49 w43 w39
+A	935	4	sampled	64	w33 w49 w43 w39
+A	936	5	sampled	64	w33 w49 w43 w39 w34
+A	937	5	sampled	64	w33 w49 w43 w39 w34
+A	938	6	sampled	64	w33 w49 w43 w39 w34 w42
+A	939	6	sampled	64	w33 w49 w43 w39 w34 w42
+A	940	7	sampled	64	w33 w49 w43 w39 w34 w42 w33
+A	941	7	sampled	64	w33 w49 w43 w39 w34 w42 w33
+A	942	8	sampled	64	w33 w49 w43 w39 w34 w42 w33 w34
+A	943	0	exhaustive	1	-
+A	944	0	exhaustive	1	-
+A	945	0	exhaustive	1	-
+A	946	0	exhaustive	1	-
+A	947	0	exhaustive	1	-
+A	948	0	exhaustive	1	-
+A	949	0	exhaustive	1	-
+A	950	0	exhaustive	1	-
+A	951	0	exhaustive	1	-
+A	952	0	exhaustive	1	-
+A	953	1	exhaustive	40	w39
+A	954	1	exhaustive	40	w39
+A	955	2	exhaustive	1480	w39 w36
+A	956	2	exhaustive	1480	w39 w36
+A	957	3	sampled	64	w39 w36 w31
+A	958	3	sampled	64	w39 w36 w31
+A	959	4	sampled	64	w39 w36 w31 w36
+A	960	0	exhaustive	1	-
+A	961	0	exhaustive	1	-
+A	962	0	exhaustive	1	-
+A	963	0	exhaustive	1	-
+A	964	0	exhaustive	1	-
+A	965	0	exhaustive	1	-
+A	966	1	exhaustive	43	w42
+A	967	1	exhaustive	43	w42
+A	968	2	exhaustive	2193	w42 w50
+A	969	2	exhaustive	2193	w42 w50
+A	970	3	sampled	64	w42 w50 w46
+A	971	3	sampled	64	w42 w50 w46
+A	972	4	sampled	64	w42 w50 w46 w39
+A	973	4	sampled	64	w42 w50 w46 w39
+A	974	5	sampled	64	w42 w50 w46 w39 w49
+A	975	5	sampled	64	w42 w50 w46 w39 w49
+A	976	6	sampled	64	w42 w50 w46 w39 w49 w36
+A	977	6	sampled	64	w42 w50 w46 w39 w49 w36
+A	978	7	sampled	64	w42 w50 w46 w39 w49 w36 w31
+A	979	7	sampled	64	w42 w50 w46 w39 w49 w36 w31
+A	980	8	sampled	64	w42 w50 w46 w39 w49 w36 w31 w43
+A	981	0	exhaustive	1	-
+A	982	0	exhaustive	1	-
+A	983	0	exhaustive	1	-
+A	984	0	exhaustive	1	-
+A	985	0	exhaustive	1	-
+A	986	0	exhaustive	1	-
+A	987	0	exhaustive	1	-
+A	988	0	exhaustive	1	-
+A	989	0	exhaustive	1	-
+A	990	0	exhaustive	1	-
+A	991	1	exhaustive	52	w51
+A	992	0	exhaustive	1	-
+A	993	0	exhaustive	1	-
+A	994	0	exhaustive	1	-
+A	995	1	exhaustive	32	w31
+A	996	1	exhaustive	32	w31
+A	997	2	exhaustive	1024	w31 w31
+A	998	0	exhaustive	1	-
+A	999	0	exhaustive	1	-
+A	1000	0	exhaustive	1	-
+A	1001	0	exhaustive	1	-
+A	1002	1	exhaustive	55	w54
+A	1003	1	exhaustive	55	w54
+A	1004	2	exhaustive	3025	w54 w54
+A	1005	0	exhaustive	1	-
+A	1006	0	exhaustive	1	-
+A	1007	0	exhaustive	1	-
+B	0	0	exhaustive	1	-
+B	1	1	exhaustive	2	c
+B	2	0	exhaustive	1	-
+B	3	0	exhaustive	1	-
+B	4	1	exhaustive	44	w43
+B	5	1	exhaustive	44	w43
+B	6	2	exhaustive	1672	w43 w37
+B	7	2	exhaustive	1672	w43 w37
+B	8	3	sampled	64	w43 w37 w53
+B	9	3	sampled	64	w43 w37 w53
+B	10	4	sampled	64	w43 w37 w53 w38
+B	11	0	exhaustive	1	-
+B	12	0	exhaustive	1	-
+B	13	0	exhaustive	1	-
+B	14	0	exhaustive	1	-
+B	15	0	exhaustive	1	-
+B	16	0	exhaustive	1	-
+B	17	1	exhaustive	48	w47
+B	18	1	exhaustive	48	w47
+B	19	2	exhaustive	2400	w47 w49
+B	20	2	exhaustive	2400	w47 w49
+B	21	3	sampled	64	w47 w49 w34
+B	22	3	sampled	64	w47 w49 w34
+B	23	4	sampled	64	w47 w49 w34 w47
+B	24	4	sampled	64	w47 w49 w34 w47
+B	25	5	sampled	64	w47 w49 w34 w47 w50
+B	26	5	sampled	64	w47 w49 w34 w47 w50
+B	27	6	sampled	64	w47 w49 w34 w47 w50 w33
+B	28	6	sampled	64	w47 w49 w34 w47 w50 w33
+B	29	7	sampled	64	w47 w49 w34 w47 w50 w33 w34
+B	30	7	sampled	64	w47 w49 w34 w47 w50 w33 w34
+B	31	8	sampled	64	w47 w49 w34 w47 w50 w33 w34 w38
+B	32	0	exhaustive	1	-
+B	33	0	exhaustive	1	-
+B	34	0	exhaustive	1	-
+B	35	0	exhaustive	1	-
+B	36	0	exhaustive	1	-
+B	37	0	exhaustive	1	-
+B	38	0	exhaustive	1	-
+B	39	0	exhaustive	1	-
+B	40	0	exhaustive	1	-
+B	41	0	exhaustive	1	-
+B	42	1	exhaustive	48	w47
+B	43	1	exhaustive	48	w47
+B	44	2	exhaustive	1968	w47 w40
+B	45	2	exhaustive	1968	w47 w40
+B	46	3	sampled	64	w47 w40 w37
+B	47	3	sampled	64	w47 w40 w37
+B	48	4	sampled	64	w47 w40 w37 w39
+B	49	4	sampled	64	w47 w40 w37 w39
+B	50	5	sampled	64	w47 w40 w37 w39 w47
+B	51	5	sampled	64	w47 w40 w37 w39 w47
+B	52	6	sampled	64	w47 w40 w37 w39 w47 w47
+B	53	6	sampled	64	w47 w40 w37 w39 w47 w47
+B	54	7	sampled	64	w47 w40 w37 w39 w47 w47 w31
+B	55	7	sampled	64	w47 w40 w37 w39 w47 w47 w31
+B	56	8	sampled	64	w47 w40 w37 w39 w47 w47 w31 w53
+B	57	0	exhaustive	1	-
+B	58	0	exhaustive	1	-
+B	59	0	exhaustive	1	-
+B	60	0	exhaustive	1	-
+B	61	0	exhaustive	1	-
+B	62	0	exhaustive	1	-
+B	63	0	exhaustive	1	-
+B	64	0	exhaustive	1	-
+B	65	0	exhaustive	1	-
+B	66	0	exhaustive	1	-
+B	67	1	exhaustive	48	w47
+B	68	0	exhaustive	1	-
+B	69	0	exhaustive	1	-
+B	70	0	exhaustive	1	-
+B	71	1	exhaustive	45	w44
+B	72	1	exhaustive	45	w44
+B	73	2	exhaustive	2385	w44 w52
+B	74	0	exhaustive	1	-
+C	0	0	exhaustive	1	-
+C	1	1	exhaustive	2	c
+C	2	0	exhaustive	1	-
+C	3	0	exhaustive	1	-
+C	4	1	exhaustive	55	w54
+C	5	1	exhaustive	55	w54
+C	6	2	exhaustive	2310	w54 w41
+C	7	0	exhaustive	1	-
+C	8	0	exhaustive	1	-
+C	9	0	exhaustive	1	-
+C	10	0	exhaustive	1	-
+C	11	1	exhaustive	49	w48
+C	12	0	exhaustive	1	-
+C	13	0	exhaustive	1	-
+C	14	0	exhaustive	1	-
+C	15	1	exhaustive	44	w43
+C	16	1	exhaustive	44	w43
+C	17	2	exhaustive	2420	w43 w54
+C	18	2	exhaustive	2420	w43 w54
+C	19	3	sampled	64	w43 w54 w36
+C	20	3	sampled	64	w43 w54 w36
+C	21	4	sampled	64	w43 w54 w36 w34
+C	22	4	sampled	64	w43 w54 w36 w34
+C	23	5	sampled	64	w43 w54 w36 w34 w34
+C	24	5	sampled	64	w43 w54 w36 w34 w34
+C	25	6	sampled	64	w43 w54 w36 w34 w34 w32
+C	26	6	sampled	64	w43 w54 w36 w34 w34 w32
+C	27	7	sampled	64	w43 w54 w36 w34 w34 w32 w54
+C	28	7	sampled	64	w43 w54 w36 w34 w34 w32 w54
+C	29	8	sampled	64	w43 w54 w36 w34 w34 w32 w54 w31
+C	30	0	exhaustive	1	-
+C	31	0	exhaustive	1	-
+C	32	0	exhaustive	1	-
+C	33	0	exhaustive	1	-
+C	34	0	exhaustive	1	-
+C	35	0	exhaustive	1	-
+C	36	0	exhaustive	1	-
+C	37	0	exhaustive	1	-
+C	38	0	exhaustive	1	-
+C	39	0	exhaustive	1	-
+C	40	1	exhaustive	54	w53
+C	41	1	exhaustive	54	w53
+C	42	2	exhaustive	1890	w53 w34
+C	43	2	exhaustive	1890	w53 w34
+C	44	3	sampled	64	w53 w34 w34
+C	45	3	sampled	64	w53 w34 w34
+C	46	4	sampled	64	w53 w34 w34 w31
+C	47	4	sampled	64	w53 w34 w34 w31
+C	48	5	sampled	64	w53 w34 w34 w31 w36
+C	49	5	sampled	64	w53 w34 w34 w31 w36
+C	50	6	sampled	64	w53 w34 w34 w31 w36 w31
+C	51	6	sampled	64	w53 w34 w34 w31 w36 w31
+C	52	7	sampled	64	w53 w34 w34 w31 w36 w31 w31
+C	53	7	sampled	64	w53 w34 w34 w31 w36 w31 w31
+C	54	8	sampled	64	w53 w34 w34 w31 w36 w31 w31 w41
+C	55	0	exhaustive	1	-
+C	56	0	exhaustive	1	-
+C	57	0	exhaustive	1	-
+C	58	0	exhaustive	1	-
+C	59	0	exhaustive	1	-
+C	60	0	exhaustive	1	-
+C	61	0	exhaustive	1	-
+C	62	0	exhaustive	1	-
+C	63	0	exhaustive	1	-
+C	64	0	exhaustive	1	-
+C	65	1	exhaustive	32	w31
+C	66	1	exhaustive	32	w31
+C	67	2	exhaustive	1472	w31 w45
+C	68	0	exhaustive	1	-
